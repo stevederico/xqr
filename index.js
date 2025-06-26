@@ -50,12 +50,12 @@ function createQRCode(username) {
 function showResult(canvas, url, username) {
 document.body.innerHTML = `
     <div class="min-h-screen flex items-center justify-center p-4">
-        <div class="bg-white border rounded-lg shadow-lg p-8 max-w-md w-full text-center">
-            <h1 class="text-5xl font-bold mb-6">${username}</h1>
+        <div class="bg-white rounded-lg shadow-lg p-8 max-w-md w-full text-center">
             
+            <p class="text-gray-600 mb-2">x.com/${username}</p>
             
             <div class="mb-2" id="qr-container"></div>
-            <p class="text-gray-600 mb-12">x.com/${username}</p>
+            <h1 class="text-5xl font-bold mb-12">@${username}</h1>
             
             <div class="pt-4 border-t">
                 <p class="text-gray-600 mb-2">1. Screenshot this</p>
