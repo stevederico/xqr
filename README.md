@@ -1,5 +1,6 @@
-
-<img width="447" alt="wallpaper" src="https://github.com/user-attachments/assets/37b5192e-82d4-4bb8-a08a-319dc2379198" />
+<p align="center">
+  <img width="447" alt="wallpaper" src="https://github.com/user-attachments/assets/37b5192e-82d4-4bb8-a08a-319dc2379198" />
+</p>
 
 # X.com QR Code Generator
 
@@ -10,7 +11,6 @@ XQR is a lightweight and efficient web application designed to generate QR codes
 ## Features
 - **Dynamic QR Code Generation**: Generate QR codes based on X.com usernames.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Dark Mode Support**: Tailored for accessibility and modern aesthetics.
 - **Browser-Only Functionality**: No backend or database required.
 
 ## Technologies Used
