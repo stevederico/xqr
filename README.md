@@ -1,7 +1,7 @@
 
 <img width="447" alt="wallpaper" src="https://github.com/user-attachments/assets/37b5192e-82d4-4bb8-a08a-319dc2379198" />
 
-#X.com QR Code Generator
+# X.com QR Code Generator
 
 ## Overview
 
