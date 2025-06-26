@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "vite build --mode development;",
+    "prod": "vite build --mode production; cp -r ./dist/* ../bixby-proxy/public/xqr.bixbyapps.com"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
